@@ -1,11 +1,11 @@
-Def multiplication_function(a,b):
-    return a * b
+Def addition_function(a,b):
+    return a +  b
 
 
 
 
 
 
-result = multiplication_function(50,5)
+result = addition_function(50,5)
 print(result)
   
